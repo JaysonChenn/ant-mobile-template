@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from 'react';
 import { HashRouter, Route, Switch, Redirect } from 'react-router-dom';
 import loadbale from '../utils/loadable';
